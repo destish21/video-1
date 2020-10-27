@@ -37,3 +37,11 @@ p {
 
 
 }
+img {
+    background-color: blue;
+    height: auto;
+    width: auto;
+    align: center;
+    padding: 2px;
+    border: 2px black solid;
+}
