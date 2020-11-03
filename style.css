@@ -1,6 +1,7 @@
 body {
     background-color: #e5e4d7;
     font-size: 25px;
+    margin: 20px;
 
 }
 h1 {
@@ -37,11 +38,12 @@ p {
 
 
 }
-img {
+#Tig {
     background-color: blue;
-    height: auto;
-    width: auto;
+    height: 200px;
+    width: 400px;
+    margin-left: 30px;
     align: center;
-    padding: 2px;
+    padding: 20px;
     border: 2px black solid;
 }
